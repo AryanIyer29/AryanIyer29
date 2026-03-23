@@ -1,106 +1,129 @@
-<img align="right" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="40%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 
-# 👋 Hi, I'm Aryan Iyer
+# 🚀 Aryan Iyer  
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&lines=Full+Stack+Developer;AI+Systems+Builder;Cybersecurity+Student;Backend+Focused+Engineer" />
+</p>
 
 🎓 B.Tech (3rd Year) | Computer Science (Cybersecurity)  
-💻 Full Stack Developer | AI Systems Builder | Problem Solver  
+💻 Building AI-powered full stack systems | Backend Enthusiast  
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I'm a Computer Science undergraduate specializing in Cybersecurity, with a strong focus on building **real-world full-stack applications integrated with AI**.
-
-I enjoy designing systems, optimizing backend performance, and turning complex ideas into scalable products. My work primarily revolves around **AI-driven applications, backend engineering, and system design fundamentals**.
-
-Currently preparing for **software engineering placements** while actively improving my **DSA, backend architecture, and AI integration skills**.
+💡 I build **real-world scalable applications** with a strong focus on **AI integration and backend systems**.  
+⚙️ Passionate about **system design, performance optimization, and clean architecture**.  
+🚀 Currently preparing for **SDE placements** while leveling up DSA & full-stack skills.
 
 ---
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/AryanIyer29)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryaniyer)
+<p>
+<a href="https://github.com/AryanIyer29"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/aryaniyer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+</p>
 
 ---
 
 # 💻 Tech Stack
 
-### 🧠 Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+### 🧠 Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
 ---
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/next.js-black?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+### 🌐 Frontend  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 ---
 
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+### ⚙️ Backend  
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 
 ---
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+### 🗄️ Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ---
 
-### 🔧 Tools & Technologies
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
-![Socket.io](https://img.shields.io/badge/socket.io-black?style=flat&logo=socket.io)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![dotenv](https://img.shields.io/badge/dotenv-%23000000.svg?style=flat)
+### 🔧 Tools  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![dotenv](https://img.shields.io/badge/dotenv-black?style=for-the-badge)
 
 ---
 
 # 📌 Projects
 
-## 🤖 AI Interview Platform
-- Built a **real-time AI-powered interview system**
-- Integrated **speech processing + response evaluation**
-- Optimized backend for **low latency responses**
-- Designed scalable APIs using **FastAPI**
+## 🤖 AI Interview Platform  
+🚀 Real-time AI interview system with **speech + response evaluation**  
+⚡ Optimized backend for **low latency performance**  
+🔗 Built using **FastAPI + AI integrations**
 
 ---
 
-## 🛡️ Malware Detection System (CLI + GUI)
-- Developed ML-based malware detection using **real feature extraction**
-- Implemented both **CLI and GUI interfaces**
-- Structured for **extensibility and production-level usage**
+## 🛡️ Malware Detection System  
+🔍 ML-based detection with **real feature extraction**  
+🖥️ Includes both **CLI + GUI implementations**  
+⚙️ Designed for **scalability and extensibility**
 
 ---
 
-## 📜 AI Policy Compliance Bot
-- Built an AI system to **analyze and validate policy compliance**
-- Detects violations and provides **automated corrective suggestions**
-- Designed backend workflows for **rule validation + AI inference**
-- Integrated API-based architecture for **scalable enterprise use cases**
+## 📜 AI Policy Compliance Bot  
+🧠 AI system to **analyze policy violations automatically**  
+📊 Provides **intelligent compliance suggestions**  
+⚙️ Backend designed for **rule engine + AI inference integration**  
+🚀 Built for **enterprise-level automation workflows**
 
 ---
 
 # 📈 Problem Solving
 
-- Solved **100+ DSA problems** on LeetCode  
-- Target: **250+ problems for placement readiness**  
-- Focus Areas:
-  - Arrays & Strings  
-  - Sliding Window  
-  - Recursion  
-  - Dynamic Programming (Basics)  
+🔥 Solved **100+ DSA problems**  
+🎯 Target: **250+ for placement readiness**  
+
+Focus Areas:
+- Arrays & Strings  
+- Sliding Window  
+- Recursion  
+- Dynamic Programming  
 
 ---
 
 # 📊 GitHub Stats
 
-```md
-<!-- Add later if needed -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanIyer29&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanIyer29&theme=tokyonight" />
+</p>
+
+---
+
+# ⚡ Currently Working On
+
+- 🧠 AI + Backend System Design  
+- ⚙️ Production-grade Full Stack Apps  
+- 📈 DSA for Placements  
+- 🔥 Scalable API Architectures  
+
+---
+
+# 💡 Developer Mindset
+
+> "I focus on building systems that are not just functional — but scalable, efficient, and production-ready."
+
+---
